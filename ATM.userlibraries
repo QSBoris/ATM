@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-java-8.0.28">
+    <archive path="D:/A_PET_PROJECTS/ATM/ATM/lib/mysql-connector-java-8.0.28.jar" />
+  </library>
+  <library name="jcalendar-tz-1.3.3-4">
+    <archive path="D:/A_PET_PROJECTS/ATM/ATM/lib/jcalendar-tz-1.3.3-4.jar" />
+    <archive path="D:/A_PET_PROJECTS/ATM/ATM/lib/mysql-connector-java-8.0.28.jar" />
+  </library>
+  <library name="lib">
+    <archive path="D:/A_PET_PROJECTS/ATM/ATM/lib/jcalendar-tz-1.3.3-4.jar" />
+    <archive path="D:/A_PET_PROJECTS/ATM/ATM/lib/mysql-connector-java-8.0.28.jar" />
+  </library>
+</eclipse-userlibraries>
+
